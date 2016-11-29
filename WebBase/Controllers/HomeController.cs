@@ -11,6 +11,7 @@ namespace WebBase.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            //Returns a view
             return View();
         }
     }
